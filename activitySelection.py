@@ -1,5 +1,5 @@
 from ActivityModel import Activity
-from printUtils import printActivity
+from PrintUtils import printActivity
 
 
 def activitySelection(arr: list[Activity]):

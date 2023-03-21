@@ -1,5 +1,5 @@
-from activitySelection import activitySelection
-from printUtils import printActivity
+from ActivitySelection import activitySelection
+from PrintUtils import printActivity
 from data import arr
 
 printActivity(activitySelection(arr))
